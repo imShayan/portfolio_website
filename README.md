@@ -1,3 +1,3 @@
-## Personal Portfolio
+## Portfolio_website
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+Developed using React JS framework and also used Next Js
