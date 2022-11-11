@@ -44,6 +44,15 @@ export const projects = [
     visit: 'https://extraordinary-chaja-076ee7.netlify.app',
     id: 4,
   },
+  {
+    title: 'Grocery Budget',
+    description: "This is Grocery List where you can enter value in the input and it will be added to the list.I have used Local Storage in browser to retain my list on refresh an added several functionality like Alert popup , add items ,delete/update items",
+    image: '/images/grocery.JPG',
+    tags: ['React', 'Javascript','CSS','HTML'],
+    source: 'https://github.com/imShayan/GroceryBugetList',
+    visit: 'https://storied-dasik-990dea.netlify.app/',
+    id: 5,
+  }
 ];
 
 export const TimeLineData = [
